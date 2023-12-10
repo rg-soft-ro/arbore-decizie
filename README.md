@@ -16,7 +16,7 @@ Exemplu de utilizare:
 
 ```
 Introduceti genul filmului: Action
-Câte filme sa fie incluse in top? 10
+Câte filme sa fie incluse in top?: 10
 
 Top 10 filme cu genul Action:
                                                      titlu  rating_estimat
