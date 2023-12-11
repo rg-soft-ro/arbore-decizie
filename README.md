@@ -1,6 +1,9 @@
 # Sistem de recomandare de filme
 
-Acesta este un program care folosește un model de arbore de decizie pentru a prezice ratingurile filmelor și a recomanda cele mai bine cotate filme dintr-un anumit gen.
+Acesta este un program care folosește un model de arbore de decizie pentru a prezice ratingurile filmelor și a recomanda cele mai bine cotate filme dintr-un anumit gen. 
+
+Programul utilizeaza un model de invatare automata, mai exact un arbore de decizie de regresie ( structura arborescenta pentru a analiza si a prezice valori continue dintr-un set de date pe baza relatiilor dintre caracteristicile acestuia. 
+Modelul este antrenat sa identifice si sa analizeze relatiile dintre diferitele caracteristici ale filmelor cum ar fi genul, anul lansarii, si numarul de ratinguri pentru a estima ratingul mediu pe care un film l-ar putea primi. Pe baza acestor estimari, programul sorteaza si prezinta utilizatorului un top cu cele mai bune filme.
 
 ## Descriere
 
